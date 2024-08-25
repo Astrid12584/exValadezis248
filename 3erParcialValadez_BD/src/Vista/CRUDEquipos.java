@@ -19,7 +19,7 @@ public class CRUDEquipos extends javax.swing.JFrame {
         
      public CRUDEquipos() {//Inicia Constructor
         initComponents();
-        this.setTitle("Software CRUD VALADEZ LIBROS");
+        this.setTitle("Software CRUD VALADEZ EQUIPOS");
         this.setLocationRelativeTo(this);//Centrar 
         
     }//Termina constructor
